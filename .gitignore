@@ -1,0 +1,7 @@
+exfor_master/
+data/
+data_ntof/
+plots/
+__pycache__/
+*.pyc
+.DS_Store
