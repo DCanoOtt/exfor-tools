@@ -1,0 +1,8 @@
+# exfor_retrieve.py uses only the Python standard library (and git, to download the EXFOR master files).
+# exfor_plot.py needs matplotlib:
+matplotlib
+numpy
+# optional, only for the independent check in tests/test_endf.py:
+# endf-parserpy
+# optional, for the pandas examples of the manual:
+# pandas
